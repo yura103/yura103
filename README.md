@@ -30,6 +30,6 @@ _"I aspire to become a data analyst and machine learning engineer because I am f
 
 ## 🔗 Links
 
-- [Notion](https://your-notion-link)
-- [Other links if you want!]
+- [Notion](https://rayull.notion.site/1f4c9c99ec33800d97cbd6f71f59b5e2?source=copy_link)
+- [tistory](https://yura103.tistory.com/)
 
