@@ -22,6 +22,18 @@ _"I aspire to become a data analyst and machine learning engineer because I am f
 
 ---
 
+## 📜 Certificates
+
+<p>
+  <img src="https://img.shields.io/badge/ADsP-0052CC?style=flat-square&logo=OpenAI&logoColor=white" alt="ADsP"/>
+  <img src="https://img.shields.io/badge/SQLD-F29111?style=flat-square&logo=MySQL&logoColor=white" alt="SQLD"/>
+</p>
+
+- **ADsP** (Advanced Data Analytics Semi-Professional)
+- **SQLD** (SQL Developer)
+
+---
+
 ## 📌 Projects
 
 🚧 *I am currently working on building my first collaborative projects!*
@@ -31,5 +43,4 @@ _"I aspire to become a data analyst and machine learning engineer because I am f
 ## 🔗 Links
 
 - [Notion](https://rayull.notion.site/1f4c9c99ec33800d97cbd6f71f59b5e2?source=copy_link)
-- [tistory](https://yura103.tistory.com/)
-
+- [Tistory](https://yura103.tistory.com/)
