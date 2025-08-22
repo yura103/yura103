@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1A237E&height=200&text=Yura%20Kim&fontSize=45&animation=fadeIn&fontAlign=70&fontAlignY=35)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1A237E,100:3949AB&height=200&text=Yura%20Kim&fontSize=44&animation=fadeIn&fontAlign=70&fontAlignY=35)
 
 # 👋 Hi there
 I am **Yura Kim**, aspiring to become a **Data Scientist**.  
@@ -42,50 +40,30 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 
 ---
 
-## ⚒️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-**Visualization**  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**ML / DL**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Tools**  
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
----
-
 ## 📌 Projects
 
 ### 🛠️ Personal Projects
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=cnn-retrain-pipeline&theme=default&hide_border=false&bg_color=ffffff)](https://github.com/yura103/cnn-retrain-pipeline)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=mlops-docker-seminar&theme=default&hide_border=false&bg_color=ffffff)](https://github.com/yura103/mlops-docker-seminar)
 
 ### 🤝 Collaborated Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyraa88&repo=mlops-docker-seminar&theme=transparent&hide_border=true&title_color=6B7280&text_color=111827&icon_color=8B5CF6)](https://github.com/lyraa88/mlops-docker-seminar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyraa88&repo=mlops-docker-seminar&theme=default&hide_border=false&bg_color=ffffff)](https://github.com/lyraa88/mlops-docker-seminar)
 
 ---
 
 ## 📊 GitHub Stats
-![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=prussian)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=prussian)
 
+<img
+  src="https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=default&hide_border=false&bg_color=ffffff"
+  alt="Yura's GitHub stats" />
+<br/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=default&hide_border=false&bg_color=ffffff"
+  alt="Top languages" />
+<br/>
+<img
+  src="https://streak-stats.demolab.com?user=yura103&theme=default&hide_border=false&background=ffffff&ring=3949AB&fire=3949AB&currStreakLabel=3949AB&sideNums=111827&sideLabels=3949AB"
+  alt="GitHub Streak" />
 
 ---
 
@@ -95,4 +73,4 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=yura103&label=Profile%20views&color=C8A2C8&style=flat)
+![visitors](https://komarev.com/ghpvc/?username=yura103&label=Profile%20views&color=3949AB&style=flat)
