@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:00FFFF&height=200&text=Yura%20Kim&fontSize=45&animation=fadeIn&fontAlign=70&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:20B2AA&height=200&text=Yura%20Kim&fontSize=45&animation=fadeIn&fontAlign=70&fontAlignY=35)
 
 # 👋 Hi there
 I am **Yura Kim**, aspiring to become a **Data Scientist**.  
 I am passionate about uncovering **meaningful insights through data analysis, machine learning, and deep learning**, and creating **business value** from them.  
 
+I am currently gaining experience in **data-driven decision making** and **AI application projects** as I grow into a Data Scientist.  
+
+---
 
 ## 🚀 Skills & Certifications
 
@@ -28,9 +31,6 @@ I am passionate about uncovering **meaningful insights through data analysis, ma
 **Certifications**  
 ![ADsP](https://img.shields.io/badge/ADsP-Data%20Analytics-blue?style=flat-square&logo=databricks&logoColor=white)
 ![SQLD](https://img.shields.io/badge/SQLD-SQL%20Developer-orange?style=flat-square&logo=oracle&logoColor=white)
- 
-
-I am currently gaining experience in **data-driven decision making** and **AI application projects** as I grow into a Data Scientist.  
 
 ---
 
@@ -77,18 +77,19 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 
 ## 📌 Projects
 
-### 🛠️ 개인 / 주도 프로젝트
- 
+### 🛠️ Personal Projects
+<!-- Add your own repositories here -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=cnn-retrain-pipeline&theme=calm&hide_border=true)](https://github.com/yura103/cnn-retrain-pipeline)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=mlops-docker-seminar&theme=calm&hide_border=true)](https://github.com/yura103/mlops-docker-seminar)  
 
-### 🤝 협업 프로젝트
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=otheruser&repo=projectA&theme=tokyonight)](https://github.com/lyraa88/mlops-docker-seminar)  
- 
+### 🤝 Collaborated Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyraa88&repo=mlops-docker-seminar&theme=calm&hide_border=true)](https://github.com/lyraa88/mlops-docker-seminar)
 
 ---
 
 ## 📊 GitHub Stats
-![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=tokyonight)
+![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=calm&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=calm&hide_border=true)
 
 ---
 
@@ -98,4 +99,4 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 
 ---
 
-![visitors](https://komarev.com/ghpvc/?username=yura103&label=Profile%20views&color=0e75b6&style=flat)
+![visitors](https://komarev.com/ghpvc/?username=yura103&label=Profile%20views&color=6A5ACD&style=flat)
