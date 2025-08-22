@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:C6B6E0,100:EDE7F6&height=200&text=Yura%20Kim&fontSize=44&animation=fadeIn&fontAlign=70&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9B72CF,100:D9B8FF&height=200&text=Yura%20Kim&fontSize=44&animation=fadeIn&fontAlign=70&fontAlignY=35)
 
 
 
