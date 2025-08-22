@@ -36,9 +36,9 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 ---
 
 ## 🔗 Portfolio & Blog
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Notion-black?style=flat&logo=notion&logoColor=white)](https://www.notion.so/rayull/Kim-Yura-s-Portfolio-1f4c9c99ec33800d97cbd6f71f59b5e2)  
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Notion-black?style=flat&logo=notion&logoColor=white)](https://rayull.notion.site/Kim-Yura-s-Portfolio-1f4c9c99ec33800d97cbd6f71f59b5e2?source=copy_link)  
 [![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=white)](https://yura103.tistory.com/)
-
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yura103)  
 ---
 
 ## 📌 Projects
