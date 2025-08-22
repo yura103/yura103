@@ -57,10 +57,6 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
   alt="Yura's GitHub stats" />
 <br/>
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=default&hide_border=false&bg_color=ffffff"
-  alt="Top languages" />
-<br/>
-<img
   src="https://streak-stats.demolab.com?user=yura103&theme=default&hide_border=false&background=ffffff&ring=3949AB&fire=3949AB&currStreakLabel=3949AB&sideNums=111827&sideLabels=3949AB"
   alt="GitHub Streak" />
 
