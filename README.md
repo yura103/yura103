@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E7AB5,100:F0E6FF&height=200&text=Yura%20Kim&fontSize=44&animation=fadeIn&fontAlign=70&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3AFFF,100:F6E8FF&height=200&text=Yura%20Kim&fontSize=44&animation=fadeIn&fontAlign=70&fontAlignY=35)
+
 
 # 👋 Hi there
 I am **Yura Kim**, aspiring to become a **Data Scientist**.  
