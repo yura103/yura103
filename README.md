@@ -43,8 +43,6 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 ## 📌 Projects
 
 ### 🛠️ Personal Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=cnn-retrain-pipeline&theme=default&hide_border=false&bg_color=ffffff)](https://github.com/yura103/cnn-retrain-pipeline)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=mlops-docker-seminar&theme=default&hide_border=false&bg_color=ffffff)](https://github.com/yura103/mlops-docker-seminar)
 
 ### 🤝 Collaborated Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyraa88&repo=mlops-docker-seminar&theme=default&hide_border=false&bg_color=ffffff)](https://github.com/lyraa88/mlops-docker-seminar)
