@@ -83,8 +83,8 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 ---
 
 ## 📊 GitHub Stats
-![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=tokyonight)
+![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=prussian)
 
 
 ---
