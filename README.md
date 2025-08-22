@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:9B72CF,100:D9B8FF&height=200&text=Yura%20Kim&fontSize=44&animation=fadeIn&fontAlign=70&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1A237E&height=200&text=Yura%20Kim&fontSize=45&animation=fadeIn&fontAlign=70&fontAlignY=35)
 
 
 
@@ -83,8 +83,9 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 ---
 
 ## 📊 GitHub Stats
-![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=transparent&hide_border=true&title_color=6B7280&text_color=111827&icon_color=8B5CF6&ring_color=8B5CF6)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=transparent&hide_border=true&title_color=6B7280&text_color=111827)
+![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=tokyonight)
+
 
 ---
 
