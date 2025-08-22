@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:8C9EFF&height=200&text=Yura%20Kim&fontSize=44&animation=fadeIn&fontAlign=70&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:B39DDB,100:8C9EFF&height=200&text=Yura%20Kim%27s%20Blog&fontSize=44&animation=fadeIn&fontAlign=70&fontAlignY=35)
 
 
 # 👋 Hi there
