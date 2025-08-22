@@ -64,12 +64,3 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
   src="https://streak-stats.demolab.com?user=yura103&theme=default&hide_border=false&background=ffffff&ring=3949AB&fire=3949AB&currStreakLabel=3949AB&sideNums=111827&sideLabels=3949AB"
   alt="GitHub Streak" />
 
----
-
-## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yura103/)  
-[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yura103@gmail.com)
-
----
-
-![visitors](https://komarev.com/ghpvc/?username=yura103&label=Profile%20views&color=3949AB&style=flat)
