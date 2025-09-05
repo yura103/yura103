@@ -10,8 +10,12 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 
 ## 🚀 Skills & Certifications
 
-**Data Analysis & Visualization**  
+**Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+**Data Analysis & Visualization**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat-square&logo=plotly&logoColor=white)
 ![Pyplot](https://img.shields.io/badge/Pyplot_(Matplotlib)-3776AB?style=flat-square&logo=python&logoColor=white)
