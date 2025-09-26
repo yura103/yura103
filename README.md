@@ -60,9 +60,8 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
   src="https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=default&hide_border=false&bg_color=ffffff"
   alt="Yura's GitHub stats" />
 <br/>
-<img
-  src="https://streak-stats.demolab.com?user=yura103&amp;theme=default&amp;hide_border=false&amp;background=ffffff&amp;ring=3949AB&amp;fire=3949AB&amp;currStreakLabel=3949AB&amp;sideNums=111827&amp;sideLabels=3949AB"
-  alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com?user=yura103&theme=default&hide_border=false&background=ffffff&ring=3949AB&fire=3949AB&currStreakLabel=3949AB&sideNums=111827&sideLabels=3949AB)
+
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yura103&utm_content=farm">
 <img
