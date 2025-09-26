@@ -64,3 +64,10 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
   src="https://streak-stats.demolab.com?user=yura103&theme=default&hide_border=false&background=ffffff&ring=3949AB&fire=3949AB&currStreakLabel=3949AB&sideNums=111827&sideLabels=3949AB"
   alt="GitHub Streak" />
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yura103&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yura103"
+  width="600"
+  height="300"
+/>
+</a>
