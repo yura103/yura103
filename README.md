@@ -63,17 +63,17 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
     <img src="https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&v=1">
   </div>
 
-  <!-- Solved.ac -->
-  <div>
-    <a href="https://solved.ac/profile/yura103">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yura103">
-    </a>
-  </div>
-
   <!-- Gitanimals -->
   <div>
     <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yura103&utm_content=farm">
       <img src="https://render.gitanimals.org/farms/yura103" width="400" height="200">
+    </a>
+  </div>
+
+    <!-- Solved.ac -->
+  <div>
+    <a href="https://solved.ac/profile/yura103">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yura103">
     </a>
   </div>
 
