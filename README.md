@@ -63,11 +63,6 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
     <img src="https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&v=1">
   </div>
 
-  <!-- Top Languages -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&bg_color=ffffff&hide_border=false&v=1">
-  </div>
-
   <!-- Solved.ac -->
   <div>
     <a href="https://solved.ac/profile/yura103">
