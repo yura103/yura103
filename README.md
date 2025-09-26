@@ -70,7 +70,7 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
     </a>
   </div>
 
-    <!-- Solved.ac -->
+  <!-- Solved.ac -->
   <div>
     <a href="https://solved.ac/profile/yura103">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yura103">
