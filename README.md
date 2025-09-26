@@ -54,13 +54,40 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub & Algorithm Stats
 
-![Yura's GitHub stats](https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&v=1)
+<table>
+  <tr>
+    <!-- 왼쪽 열: 깃허브 활동 -->
+    <td valign="top" width="50%">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yura103)](https://solved.ac/yura103/)
+      <img src="https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&v=2" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=yura103&theme=default&background=ffffff&ring=3949AB&fire=3949AB&currStreakLabel=3949AB&hide_border=false&v=2" />
 
+    </td>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yura103&utm_content=farm">
-  <img src="https://render.gitanimals.org/farms/yura103" width="600" height="300"/>
-</a>
+    <!-- 오른쪽 열: 언어 비율 + 백준 티어 -->
+    <td valign="top" width="50%">
+
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&bg_color=ffffff&hide_border=false&v=2" />
+      <br/>
+      <a href="https://solved.ac/profile/yura103">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yura103" />
+      </a>
+
+    </td>
+  </tr>
+</table>
+
+<!-- 활동 그래프: 전체 폭 -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yura103&bg_color=ffffff&color=111827&line=3949AB&point=3949AB&hide_border=true&v=2" />
+</p>
+
+<!-- gitanimals -->
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yura103&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/yura103" width="600" height="300"/>
+  </a>
+</p>
