@@ -56,7 +56,7 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
 
 ## 📊 GitHub & Algorithm Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
 
   <!-- GitHub Stats -->
   <div>
