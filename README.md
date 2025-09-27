@@ -64,11 +64,14 @@ I am currently gaining experience in **data-driven decision making** and **AI ap
   </div>
 
   <!-- Gitanimals -->
-  <div>
-    <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yura103&utm_content=farm">
-      <img src="https://render.gitanimals.org/farms/yura103" width="400" height="200">
-    </a>
-  </div>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yura103&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yura103"
+  width="600"
+  height="300"
+/>
+</a>
+  
 
   <!-- Solved.ac -->
   <div>
