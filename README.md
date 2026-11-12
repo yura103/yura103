@@ -54,7 +54,25 @@ I enjoy turning analysis into **business value** through practical AI projects.
 ---
 
 ## 📌 Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lyraa88&repo=mlops-docker-seminar&theme=default&hide_border=false&bg_color=ffffff)](https://github.com/lyraa88/mlops-docker-seminar)
+<div align="center">
+
+<a href="https://github.com/CardBenePICK/cardbenepick-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CardBenePICK&repo=cardbenepick-app&theme=default&border_color=B39DDB" width="400" />
+</a>
+<a href="https://github.com/lyraa88/docker-mlops-pipeline">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyraa88&repo=docker-mlops-pipeline&theme=default&border_color=B39DDB" width="400" />
+</a>
+
+<a href="https://github.com/yura103/bigcontest-2025">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=bigcontest-2025&theme=default&border_color=B39DDB" width="400" />
+</a>
+<a href="https://github.com/yura103/seoul-housing-EDA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=seoul-housing-EDA&theme=default&border_color=B39DDB" width="400" />
+</a>
+
+<a href="https://github.com/yura103/sustainable-shuttle-wordcloud">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=sustainable-shuttle-wordcloud&theme=default&border_color=B39DDB" width="400" />
+</a>
 
 <br/>
 
