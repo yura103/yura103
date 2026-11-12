@@ -35,15 +35,36 @@ I enjoy turning analysis into **business value** through practical AI projects.
 <br/>
 
 ---
+## 📌 Projects
+<div align="center">
 
-## 🧾 Certifications
-![ADsP](https://img.shields.io/badge/ADsP-5B6DCD?style=for-the-badge)
-![SQLD](https://img.shields.io/badge/SQLD-C8A2C8?style=for-the-badge)
+<p align="left">
+  <a href="https://github.com/CardBenePICK/cardbenepick-app">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=CardBenePICK&repo=cardbenepick-app&theme=default" width="49%" />
+  </a>
+  <a href="https://github.com/lyraa88/docker-mlops-pipeline">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=lyraa88&repo=docker-mlops-pipeline&theme=default" width="49%" />
+  </a>
+</p>
 
-<br/>
+<p align="left">
+  <a href="https://github.com/yura103/bigcontest-2025">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yura103&repo=bigcontest-2025&theme=default" width="49%" />
+  </a>
+  <a href="https://github.com/yura103/seoul-housing-EDA">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yura103&repo=seoul-housing-EDA&theme=default" width="49%" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/yura103/sustainable-shuttle-wordcloud">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=yura103&repo=sustainable-shuttle-wordcloud&theme=default" width="49%" />
+  </a>
+</p>
+
+</div>
 
 ---
-
 ## 🔗 Portfolio & Blog
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://rayull.notion.site/Kim-Yura-s-Portfolio-1f4c9c99ec33800d97cbd6f71f59b5e2?source=copy_link)
 [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://yura103.tistory.com/)
@@ -52,36 +73,23 @@ I enjoy turning analysis into **business value** through practical AI projects.
 <br/>
 
 ---
-
-## 📌 Projects
-<div align="center">
-
-<a href="https://github.com/CardBenePICK/cardbenepick-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CardBenePICK&repo=cardbenepick-app&theme=default&border_color=B39DDB" width="400" />
-</a>
-<a href="https://github.com/lyraa88/docker-mlops-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lyraa88&repo=docker-mlops-pipeline&theme=default&border_color=B39DDB" width="400" />
-</a>
-
-<a href="https://github.com/yura103/bigcontest-2025">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=bigcontest-2025&theme=default&border_color=B39DDB" width="400" />
-</a>
-<a href="https://github.com/yura103/seoul-housing-EDA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=seoul-housing-EDA&theme=default&border_color=B39DDB" width="400" />
-</a>
-
-<a href="https://github.com/yura103/sustainable-shuttle-wordcloud">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yura103&repo=sustainable-shuttle-wordcloud&theme=default&border_color=B39DDB" width="400" />
-</a>
+## 🧾 Certifications
+![ADsP](https://img.shields.io/badge/ADsP-5B6DCD?style=for-the-badge)
+![SQLD](https://img.shields.io/badge/SQLD-C8A2C8?style=for-the-badge)
 
 <br/>
 
 ---
-
 ## 📊 GitHub & Algorithm Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yura103&show_icons=true&theme=default&hide_border=false&bg_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yura103&layout=compact&hide_border=false&bg_color=ffffff" height="165" />
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=yura103&show_icons=true&theme=default&hide_border=true&title_color=9575CD&icon_color=B39DDB" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yura103&layout=compact&theme=default&hide_border=true&title_color=9575CD" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=yura103&theme=default&hide_border=true&ring=B39DDB&fire=9575CD&currStreakLabel=9575CD" width="65%" />
 
 <br/><br/>
 
